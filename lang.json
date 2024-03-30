@@ -430,7 +430,7 @@
   "showGeofence": "نمایش حصار",
   "LaterDone": "بعدا انجام میدم",
   "BlurtoothAddress": "آدرس بلوتوث",
-  "sendCmdType": "ارسال دستور از طریق",
+  "sendCmdType": "روش ارسال",
   "ConnectToBluetoothSuccess": "اتصال به دستگاه با موفقیت انجام شد",
   "ConnectToBluetoothError": "ادرس بلوتوث دستگاه نامعتبر می باشد",
   "CommandSuccess": "دستور با موفقیت انجام شد",
